@@ -1,0 +1,2 @@
+Crie uma cópia de trabalho em um repositório local executando o comando
+git clone
